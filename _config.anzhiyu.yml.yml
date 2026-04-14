@@ -812,7 +812,7 @@ aside:
   card_weixin:
     enable: true
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
-    backFace: /img/suporka.jpeg
+    backFace: /img/suporka.png
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -855,7 +855,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 4/1/2021 00:00:00
+  publish_date: 4/1/2026 00:00:00
 
 # Console - Newest Comments
 newest_comments:
