@@ -139,7 +139,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://avatars.githubusercontent.com/u/28730619?v=4&size=200
+  img: /img/avatar.jpg
   effect: false
 
 # Disable all banner image
@@ -893,7 +893,7 @@ readmode: true
 
 # 中控台
 centerConsole:
-  enable: true
+  enable: false
   card_tags:
     enable: true
     limit: 40 # if set 0 will show all
@@ -1134,7 +1134,7 @@ comment_barrage_config:
 # https://github.com/metowolf/MetingJS
 nav_music:
   enable: true
-  console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
+  console_widescreen_music: true # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
   id: 8152976493
   server: netease
   volume: 0.7 # 默认音量
