@@ -10,8 +10,6 @@ tags:
 # Go 语言简明教程
 
 
-![Golang中文教程](/imgs/golang.png)
-
 > Go（又称Golang）是Google开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。 ——[Go - wikipedia.org](https://zh.wikipedia.org/wiki/Go)
 
 ## 1 Go 安装
