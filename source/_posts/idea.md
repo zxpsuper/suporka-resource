@@ -1,10 +1,11 @@
 ---
 title: IDEA 2026.1 最新破解教程
 date: 2026-03-30
-main_color: "#0099CC"
+cover: /imgs/idea-2.webp
+top_img: /imgs/idea-2.webp
 tags:
   - 软件
-  - IDEA
+  - 后端
 ---
 
 IntelliJ IDEA 2026.1 正式发布了，这次更新带来了许多新功能和改进，包括对AI的生态的开放，对 Java 26 的支持、Spring 支持运行时 Debug、依赖项源代码和文档开箱即用等等。IDEA 默认有 30 天的 Ultimate 订阅试用，本文将带你一步步简单破解 IntelliJ IDEA 2026.1，将订阅失效修改时间至 2099 年。

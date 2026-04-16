@@ -217,5 +217,5 @@ tags:
     return md_filepath
 
 if __name__ == '__main__':
-    url = 'https://zxpsuper.netlify.app/2025/10/14/window-auth/'
+    url = 'https://geektutu.com/post/quick-golang.html'
     scrape_article(url)

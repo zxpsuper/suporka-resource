@@ -1,7 +1,8 @@
 ---
 title: Window 系统激活教程
 date: 2026-04-14
-main_color: "#425aef"
+cover: /imgs/window-auth.webp
+top_img: /imgs/window-auth.webp
 tags:
   - Window
   - 软件
