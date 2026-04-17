@@ -14,6 +14,7 @@ tags:
 Dev-sidecar 中文名”开发者边车“，通过本地代理的方式将 https 请求代理到一些国内的加速通道上。
 
 **特性：**
+
 - DNS 优选
 - 请求拦截
 - Github 加速
@@ -33,6 +34,5 @@ Dev-sidecar 中文名”开发者边车“，通过本地代理的方式将 http
 
 之后打开 Github 可见明显看到访问速度快了许多！
 
-**其他分享：** 两个文件代下网站：
-- [GitHub 加速下载 - 在线工具 (ur1.fun)](https://ur1.fun/)
-- [GitHub 文件加速 (99988866.xyz)](https://99988866.xyz/)
+**其他分享：** 1个文件代下网站：
+- [GitHub 加速下载 - 在线工具 (ur1.fun)](https://github.ur1.fun/)

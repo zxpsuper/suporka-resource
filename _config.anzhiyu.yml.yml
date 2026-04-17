@@ -309,7 +309,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: # Twikoo/Waline
+  use: giscus # Twikoo/Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -371,9 +371,9 @@ artalk:
 # giscus
 # https://giscus.app/
 giscus:
-  repo: # GitHub repository name
-  repo_id: # GitHub repository id
-  category_id: # GitHub repository category id
+  repo: zxpsuper/suporka-resource # GitHub repository name
+  repo_id: R_kgDOSBBU6g # GitHub repository id
+  category_id: DIC_kwDOSBBU6s4C7DiG # GitHub repository category id
   theme:
     light: light
     dark: dark
