@@ -379,9 +379,9 @@ giscus:
     dark: dark
   option: # options
     data-lang: zh-CN
-    data-mapping:
-    data-category:
-    data-input-position:
+    data-mapping: pathname
+    data-category: Announcements
+    data-input-position: bottom
 
 # Chat Services
 # --------------------------------------
