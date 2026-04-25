@@ -3,6 +3,8 @@ title: 7-zip 压缩工具
 date: 2026-04-17
 cover: /imgs/7z.jpg
 top_img: /imgs/7z.jpg
+categories:
+  - 软件
 tags:
   - 软件
   - 工具

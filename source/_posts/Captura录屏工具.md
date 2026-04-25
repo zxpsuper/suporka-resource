@@ -3,6 +3,8 @@ title: Captura录屏工具
 date: 2026-04-17
 cover: /imgs/capture.png
 top_img: /imgs/capture.png
+categories:
+  - 软件
 tags:
   - 软件
   - 工具

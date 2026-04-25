@@ -3,6 +3,8 @@ title: VLC视频播放器
 date: 2026-04-17
 cover: /imgs/vlc.jpg
 top_img: /imgs/vlc.jpg
+categories:
+  - 软件
 tags:
   - 软件
   - 工具
