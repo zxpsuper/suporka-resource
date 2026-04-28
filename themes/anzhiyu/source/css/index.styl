@@ -22,3 +22,30 @@ if hexo-config('algolia_search.enable')
 if hexo-config('local_search') && hexo-config('local_search.enable')
   @import '_search/index'
   @import '_search/local-search'
+
+
+.download-tips
+  position relative
+  display inline-block
+  .hover-content
+    display: none
+    text-align center
+    background-color #fff
+    border-radius 4px
+    box-shadow rgba(0, 0, 0, 0.12) 0px 0px 12px 0px
+    position: absolute
+    width 320px
+    z-index 100
+    right -320px
+    top -160px
+    padding-bottom 16px
+  img 
+    margin-bottom 0!important
+  .link-text
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer
+  &:hover
+    .hover-content
+      display: block
+      
