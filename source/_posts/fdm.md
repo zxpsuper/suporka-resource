@@ -6,8 +6,7 @@ top_img: /imgs/FDM.png
 categories:
   - 软件
 tags:
-  - 软件
-  - 工具
+  - 下载
 ---
 
 **装任何软件之前，先备一个好用的下载器！毕竟，等待下载的每一秒都是煎熬，一个好的下载器能让你远离焦虑，快乐冲浪～**
@@ -43,7 +42,8 @@ tags:
 **官方网站：** [Free Download Manager - 從網路下載任何東西](https://www.freedownloadmanager.org/)
 
 官网版本最新最安全，但如果下载速度不给力，可以走备份通道：
-**Windows 版备份：** [点击这里](https://pan.quark.cn/s/a4ca604f4cdb)
+
+**Windows 版备份：** [点击这里下载](https://pan.quark.cn/s/a4ca604f4cdb)
 
 ## 🔧 浏览器扩展安装
 
@@ -65,3 +65,5 @@ tags:
 怎么样，这款免费又强大的下载器是不是很对胃口？
 
 如果觉得有用，别忘了给这篇文章点个赞哦！O(∩_∩)O
+
+[点击这里下载软件](https://pan.quark.cn/s/a4ca604f4cdb)

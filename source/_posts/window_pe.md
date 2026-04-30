@@ -7,7 +7,6 @@ categories:
   - 软件
 tags:
   - Windows
-  - 软件
 ---
 
 
@@ -82,12 +81,6 @@ tags:
 
 ---
 
-<div class="download-tips">
-  <span class="link-text">
-    立即下载软件！
-  </span>
-  <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
-    <div>扫码关注回复“PE”即可获取！</div>
-  </div>
-</div>
+夸克网盘下载：https://pan.quark.cn/s/afd77207afa9?pwd=RsmF
+
+迅雷网盘下载：https://pan.xunlei.com/s/VOrRWLSOx3N6sr19Dk-pYbQJA1?pwd=wuei#

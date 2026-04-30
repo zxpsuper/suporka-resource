@@ -1,13 +1,12 @@
 ---
-title: Dev-sidecar开发者便车
+title: Dev-sidecar 开发者便车
 date: 2026-04-17
 cover: /imgs/car.jpg
 top_img: /imgs/car.jpg
 categories:
   - 软件
 tags:
-  - 软件
-  - 工具
+  - 梯子
 ---
 
 **之前推荐的开源软件很多是发布在 Github 上的，而国内的 Github 访问速度又很慢，时常打不开网址，今天就推荐一款访问加速应用——Dev-sidecar。**

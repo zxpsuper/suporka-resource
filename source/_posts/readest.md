@@ -1,13 +1,12 @@
 ---
 title: Readest 开源阅读软件
 date: 2026-04-17
-cover: /imgs/readest2.webp
-top_img: /imgs/readest2.webp
+cover: /imgs/reading.webp
+top_img: /imgs/reading.webp
 categories:
   - 软件
 tags:
-  - 软件
-  - 工具
+  - 阅读
 ---
 
 

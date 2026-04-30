@@ -6,8 +6,7 @@ top_img: /imgs/vlc.jpg
 categories:
   - 软件
 tags:
-  - 软件
-  - 工具
+  - 播放器
 ---
 
 ## 你还在为视频播放发愁吗？

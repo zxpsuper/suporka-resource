@@ -6,7 +6,7 @@ top_img: /imgs/golang.webp
 categories:
   - 后端
 tags:
-  - go
+  - Golang
 ---
 
 # Go 语言简明教程
