@@ -1,6 +1,10 @@
 ---
 title: Acrobat PDF 转化神器
 date: 2026-04-30
+cover: /imgs/pdf.webp
+top_img: /imgs/pdf.webp
+categories:
+  - 软件
 tags:
   - PDF
 ---
@@ -53,3 +57,13 @@ Acrobat Pro DC 2025 是一款非常强大的 PDF 处理工具，作为 PDF 格�
 
 - 夸克网盘
 - 百度网盘
+
+<div class="download-tips">
+  <span class="link-text">
+    觉得有用？分享给身边的朋友吧~
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注获取更多实用工具推荐！</div>
+  </div>
+</div>

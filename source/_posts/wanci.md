@@ -68,5 +68,12 @@ tags:
 
 ## 下载地址
 
-- 夸克网盘 https://pan.quark.cn/s/4e07078f4852
-- 迅雷网盘 https://pan.xunlei.com/s/VOrSGtDC9SkWxKnqUmHBcsOSA1?pwd=gbq9#
+<div class="download-tips">
+  <span class="link-text">
+    点击这里下载！
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注回复“wanci”即可获取！</div>
+  </div>
+</div>

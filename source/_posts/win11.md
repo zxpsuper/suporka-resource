@@ -4,7 +4,7 @@ date: 2026-04-30
 cover: /imgs/win11.webp
 top_img: /imgs/win11.webp
 tags:
-  - windows
+  - Windows
 ---
 
 ## 简介
@@ -56,5 +56,7 @@ tags:
 ![常用运行库](/imgs/69bf7484ccd26bacb4d7aa8c.webp)
 
 ---
+
+## 下载地址
 
 - 夸克网盘下载：https://pan.quark.cn/s/06482a558571?pwd=6b4Y

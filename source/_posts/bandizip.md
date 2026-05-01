@@ -47,7 +47,19 @@ Bandizip 支持众多压缩格式，完全满足日常办公和个人使用需�
 
 ![支持的压缩格式](/imgs/69bf7bdfccd26bacb4d7cd39.webp)
 
+---
+
 ## 下载地址
 
 - 夸克网盘 https://pan.quark.cn/s/fd5f4ac9e006?pwd=tjqg
 - 迅雷网盘 https://pan.xunlei.com/s/VOrS8BzDsFYjpT9rz0bSEWHeA1?pwd=253t#        
+
+<div class="download-tips">
+  <span class="link-text">
+    觉得有用？分享给身边的朋友吧~
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注获取更多实用工具推荐！</div>
+  </div>
+</div>

@@ -53,6 +53,18 @@ Bandicam 是一款来自韩国的专业级录屏工具，以其高性能和易�
 
 ![更多设置选项](/imgs/69cf3245153c403acfc88b64.webp)
 
+---
+
 ## 下载地址
 
-- 夸克网盘 https://pan.quark.cn/s/2e52c68ff0d3
+
+<div class="download-tips">
+  <span class="link-text">
+    点击这里下载！
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注回复“bandicam”即可获取！</div>
+  </div>
+</div>
+

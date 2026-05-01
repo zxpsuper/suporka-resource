@@ -1,6 +1,10 @@
 ---
 title: IDM直装版 - 下载加速器
 date: 2026-04-30
+cover: /imgs/idm.webp
+top_img: /imgs/idm.webp
+categories:
+  - 软件
 tags:
   - 下载
 ---

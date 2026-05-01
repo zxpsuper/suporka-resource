@@ -1,8 +1,8 @@
 ---
 title: Dev-sidecar 开发者便车
 date: 2026-04-17
-cover: /imgs/car.jpg
-top_img: /imgs/car.jpg
+cover: /imgs/car.webp
+top_img: /imgs/car.webp
 categories:
   - 软件
 tags:
@@ -25,7 +25,7 @@ Dev-sidecar 中文名“开发者边车”，通过本地代理的方式将 http
 
 ## **下载安装：**
 
-1. 下载安装包，[官方网址](https://github.com/docmirror/dev-sidecar) , [夸克网盘快速下载](https://pan.quark.cn/s/27643476c99c)
+1. 下载安装包，[官方网址](https://github.com/docmirror/dev-sidecar) 
 2. 安装根证书
 
 ![](/imgs/car-2.jpg)
@@ -38,3 +38,20 @@ Dev-sidecar 中文名“开发者边车”，通过本地代理的方式将 http
 
 ## **其他分享：** 1个文件代下网站：
 - [GitHub 加速下载 - 在线工具 (ur1.fun)](https://github.ur1.fun/)
+
+--- 
+
+## 下载地址
+
+- [夸克网盘快速下载](https://pan.quark.cn/s/27643476c99c)
+- [迅雷网盘快速下载](https://pan.xunlei.com/s/VOrVyk-PnP4k3NfkQMDhXKQdA1#)
+
+<div class="download-tips">
+  <span class="link-text">
+    觉得有用？分享给身边的朋友吧~
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注获取更多实用工具推荐！</div>
+  </div>
+</div>

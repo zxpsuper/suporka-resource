@@ -1,6 +1,10 @@
 ---
 title: NDM中文版 - 下载加速器
 date: 2026-04-30
+cover: /imgs/ndm.webp
+top_img: /imgs/ndm.webp
+categories:
+  - 软件
 tags:
   - 下载
 ---
@@ -53,7 +57,9 @@ NDM 最大支持 32 线程下载，配合浏览器插件使用，功能非常强
 
 ![插件打包](/imgs/69cf3089153c403acfc88982.webp)
 
+---
+
 ## 下载地址
 
-- 夸克网盘
-- 百度网盘
+- 夸克网盘 https://pan.quark.cn/s/6e46aae7c392
+- 迅雷网盘 https://pan.xunlei.com/s/VOrTvwFvtexjzUczCY3eTx5XA1#

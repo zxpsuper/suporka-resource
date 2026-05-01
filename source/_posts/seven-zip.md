@@ -1,8 +1,8 @@
 ---
 title: 7-zip 压缩工具
 date: 2026-04-17
-cover: /imgs/7z.jpg
-top_img: /imgs/7z.jpg
+cover: /imgs/7zip.webp
+top_img: /imgs/7zip.webp
 categories:
   - 软件
 tags:
@@ -34,7 +34,7 @@ tags:
 - FAR Manager插件
 - 87种语言的本地化
 
-[7-z下载地址](https://pan.quark.cn/s/8a5cec2febf9)
+
 
 ![](/imgs/7z-0.webp)
 
@@ -47,3 +47,11 @@ tags:
 ![](/imgs/7z-2.webp)
 
 麻雀虽小却五脏俱全，十分强大。
+
+---
+
+## 下载地址
+
+[7-z下载地址](https://pan.quark.cn/s/8a5cec2febf9)
+
+迅雷网盘 https://pan.xunlei.com/s/VOrTzpWEB2z1N86LrsCXGZ5FA1#

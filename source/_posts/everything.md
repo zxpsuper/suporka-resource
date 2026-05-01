@@ -49,7 +49,19 @@ Everything 是 Windows 平台上公认最快的文件搜索工具，其搜索速
 
 ![高级功能](/imgs/69d79148c9d0f979b7e37960.webp)
 
+---
+
 ## 下载地址
 
-- 夸克网盘
-- 百度网盘
+- 夸克网盘 https://pan.quark.cn/s/789f5dcc5a34
+- 迅雷网盘 https://pan.xunlei.com/s/VOrTwSHX7ZnL-8bYAAOdrHF0A1#
+
+<div class="download-tips">
+  <span class="link-text">
+    觉得有用？分享给身边的朋友吧~
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注获取更多实用工具推荐！</div>
+  </div>
+</div>

@@ -53,3 +53,14 @@ IntelliJ IDEA 2026.1 正式发布了，这次更新带来了许多新功能和�
 里面还有 JETBRAINS 其他产品的激活码，激活流程也是一样的，mac 执行 shell 脚本即可。
 
 各位有用就点个赞吧！O(∩_∩)O
+
+
+<div class="download-tips">
+  <span class="link-text">
+    觉得有用？分享给身边的朋友吧~
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注获取更多实用工具推荐！</div>
+  </div>
+</div>
