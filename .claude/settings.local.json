@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebSearch",
-      "WebFetch(domain:www.virustotal.com)"
+      "WebFetch(domain:www.virustotal.com)",
+      "WebFetch(domain:www.transcriptgenerate.com)"
     ]
   }
 }

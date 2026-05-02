@@ -7,6 +7,7 @@ categories:
   - 软件
 tags:
   - 下载
+  - 破解
 ---
 
 ## 软件简介
@@ -57,5 +58,15 @@ IDM 不仅下载速度快，还配备强大的浏览器插件，可以直接下�
 
 ## 下载地址
 
-- 夸克网盘
-- 百度网盘
+- 夸克网盘 https://pan.quark.cn/s/a6cf50e72e2a
+- 迅雷网盘 https://pan.xunlei.com/s/VOralwanq6uCJTSjLEMu6MuZA1#
+
+<div class="download-tips">
+  <span class="link-text">
+    觉得有用？分享给身边的朋友吧~
+  </span>
+  <div class="hover-content">
+    <img src="/imgs/myqrcode_1.jpg">
+    <div>扫码关注获取更多实用工具推荐！</div>
+  </div>
+</div>

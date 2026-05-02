@@ -4,11 +4,9 @@ date: 2026-05-01
 cover: /imgs/virustotal.png
 top_img: /imgs/virustotal.png
 categories:
-  - 安全工具
+  - 在线工具
 tags:
   - 病毒检测
-  - 安全工具
-  - 在线工具
 ---
 
 ## 🔍 什么是 VirusTotal？

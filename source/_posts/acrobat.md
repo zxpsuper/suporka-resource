@@ -55,8 +55,7 @@ Acrobat Pro DC 2025 是一款非常强大的 PDF 处理工具，作为 PDF 格�
 
 ## 下载地址
 
-- 夸克网盘
-- 百度网盘
+- 百度网盘 https://pan.baidu.com/s/1u1SxOPk_ObgDK4_BYLjhmQ?pwd=8w9v
 
 <div class="download-tips">
   <span class="link-text">
