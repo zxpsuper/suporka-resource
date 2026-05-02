@@ -1,8 +1,8 @@
 ---
 title: HelloTik - TikTok 无水印视频下载神器
 date: 2026-05-02
-cover: /imgs/shuiyin.jpeg
-top_img: /imgs/shuiyin.jpeg
+cover: /imgs/shuiyin.jpg
+top_img: /imgs/shuiyin.jpg
 categories:
   - 在线工具
 tags:
