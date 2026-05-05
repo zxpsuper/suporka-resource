@@ -233,5 +233,5 @@ tags:
     return md_filepath
 
 if __name__ == '__main__':
-    url = 'https://leyugg.com/Acrobat.html'
+    url = 'https://leyugg.com/WinRAR.html'
     scrape_article(url)

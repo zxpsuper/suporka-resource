@@ -3,7 +3,14 @@
     "allow": [
       "WebSearch",
       "WebFetch(domain:www.virustotal.com)",
-      "WebFetch(domain:www.transcriptgenerate.com)"
+      "WebFetch(domain:www.transcriptgenerate.com)",
+      "Bash(python *)",
+      "Bash(pip list *)",
+      "Bash(findstr -i \"requests beautifulsoup pillow\")",
+      "Bash(py --version)",
+      "Bash(/c/Users/suporka/AppData/Local/Microsoft/WindowsApps/python *)",
+      "Bash(npm install *)",
+      "Bash(node *)"
     ]
   }
 }
