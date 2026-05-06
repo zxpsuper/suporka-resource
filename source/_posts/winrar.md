@@ -45,7 +45,7 @@ WinRAR 支持的压缩格式非常丰富，几乎涵盖了日常工作中遇到�
     觉得有用？分享给身边的朋友吧~
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注获取更多实用工具推荐！</div>
   </div>
 </div>

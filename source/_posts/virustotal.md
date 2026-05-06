@@ -208,7 +208,7 @@ VirusTotal 是一个**免费、强大、权威**的在线安全检测平台，�
     觉得有用？分享给身边的朋友吧~
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注获取更多实用工具推荐！</div>
   </div>
 </div>

@@ -60,7 +60,7 @@ Readest 不仅是一款阅读器，更是你的个人数字图书馆管理员、
     立即下载 Readest，开启你的高效阅读之旅！
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注回复“readest”即可获取！</div>
   </div>
 </div>

@@ -160,7 +160,7 @@ HelloTik 是一款**小而美、专注做好一件事**的工具。
     还有其他好用的工具？
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注，推荐更多实用神器！</div>
   </div>
 </div>

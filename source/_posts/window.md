@@ -134,7 +134,7 @@ MAS 支持多种激活方式：KMS、数字权利、KMS38 都有，你想要的�
     立即下载软件脚本！
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注回复“系统激活”即可获取！</div>
   </div>
 </div>

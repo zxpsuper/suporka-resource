@@ -64,7 +64,7 @@ Acrobat Pro DC 2025 是一款非常强大的 PDF 处理工具，作为 PDF 格�
     觉得有用？分享给身边的朋友吧~
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注获取更多实用工具推荐！</div>
   </div>
 </div>

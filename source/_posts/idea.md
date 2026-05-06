@@ -31,7 +31,7 @@ IntelliJ IDEA 2026.1 正式发布了，这次更新带来了许多新功能和�
     下载 IDEA 补丁！
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注回复“idea”即可获取！</div>
   </div>
 </div>
@@ -60,7 +60,7 @@ IntelliJ IDEA 2026.1 正式发布了，这次更新带来了许多新功能和�
     觉得有用？分享给身边的朋友吧~
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.jpg">
+    <img src="/imgs/myqrcode_1.webp">
     <div>扫码关注获取更多实用工具推荐！</div>
   </div>
 </div>
