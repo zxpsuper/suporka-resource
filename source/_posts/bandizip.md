@@ -59,7 +59,7 @@ Bandizip 支持众多压缩格式，完全满足日常办公和个人使用需�
     觉得有用？分享给身边的朋友吧~
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.webp">
+    <img src="https://suporka-resource.netlify.app/imgs/myqrcode_1.webp">
     <div>扫码关注获取更多实用工具推荐！</div>
   </div>
 </div>

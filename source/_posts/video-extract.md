@@ -166,7 +166,7 @@ AI 识别的准确率主要取决于：
     还有其他好用的 AI 工具？
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.webp">
+    <img src="https://suporka-resource.netlify.app/imgs/myqrcode_1.webp">
     <div>扫码关注，推荐更多效率神器！</div>
   </div>
 </div>

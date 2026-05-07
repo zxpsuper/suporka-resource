@@ -64,7 +64,7 @@ Bandicam 是一款来自韩国的专业级录屏工具，以其高性能和易�
     点击这里下载！
   </span>
   <div class="hover-content">
-    <img src="/imgs/myqrcode_1.webp">
+    <img src="https://suporka-resource.netlify.app/imgs/myqrcode_1.webp">
     <div>扫码关注回复“bandicam”即可获取！</div>
   </div>
 </div>
