@@ -3,6 +3,8 @@ title: NDM中文版 - 下载加速器
 date: 2026-04-30
 cover: /imgs/ndm.webp
 top_img: /imgs/ndm.webp
+description: NDM 是一款强大的下载工具，在下载性能方面不输 IDM，但它是完全免费的。
+keywords: NDM,下载工具,下载加速器
 categories:
   - 软件
 tags:

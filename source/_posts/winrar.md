@@ -3,6 +3,8 @@ title: WinRAR 解压软件
 date: 2026-05-05
 cover: /imgs/winrar.webp
 top_img: /imgs/winrar.webp
+description: WinRAR 软件非常小巧，安装包仅有不到 4MB，但压缩和解压速度都很快，压缩比也相当出色。
+keywords: WinRAR,解压软件,破解版
 categories:
   - 软件
 tags:

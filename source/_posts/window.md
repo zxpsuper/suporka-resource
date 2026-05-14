@@ -3,6 +3,8 @@ title: Windows 系统激活教程
 date: 2026-04-14
 cover: /imgs/window-auth.webp
 top_img: /imgs/window-auth.webp
+description: Windows 系统激活教程，从原理到实操，新手也能轻松看懂！
+keywords: Windows,激活,教程
 categories:
   - 软件
 tags:

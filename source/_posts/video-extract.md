@@ -3,6 +3,8 @@ title: 免费视频文案提取工具
 date: 2026-05-02
 cover: /imgs/transcript-generate.webp
 top_img: /imgs/transcript-generate.webp
+description: 一键提取视频文案，AI 自动识别，全程免费，无需注册
+keywords: 视频文案提取工具
 categories:
   - 在线工具
 tags:

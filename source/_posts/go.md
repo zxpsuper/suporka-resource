@@ -3,6 +3,8 @@ title: Go 语言简明教程
 date: 2026-04-16
 cover: /imgs/golang.webp
 top_img: /imgs/golang.webp
+description: Go 语言简明教程
+keywords: [Go, Golang]
 categories:
   - 后端
 tags:

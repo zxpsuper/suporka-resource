@@ -3,6 +3,8 @@ title: 格式工厂
 date: 2026-05-05
 cover: /imgs/geshigongchang.webp
 top_img: /imgs/geshigongchang.webp
+description: 格式工厂绿色版，支持视频、音频、图片及文档等多种格式的相互转换。
+keywords: 格式工厂,格式转换,破解版
 categories:
   - 软件
 tags:

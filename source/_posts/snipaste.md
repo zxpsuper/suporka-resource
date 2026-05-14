@@ -3,6 +3,8 @@ title: Snipaste 截图工具
 date: 2026-04-17
 cover: /imgs/snipaste.png
 top_img: /imgs/snipaste.png
+description: Snipaste 是由两个单词 snip(裁剪) + paste(粘贴)组成，其安装包只有 12 M，十分小巧。
+keywords: [Snipaste,截图,软件]
 categories:
   - 软件
 tags:

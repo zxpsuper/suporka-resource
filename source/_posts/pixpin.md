@@ -3,6 +3,8 @@ title: PixPin 截图神器
 date: 2026-05-05
 cover: /imgs/pixpin.webp
 top_img: /imgs/pixpin.webp
+description: PixPin 截图珍藏版，一款非常好用的截图工具。
+keywords: PixPin,截图,珍藏版
 categories:
   - 软件
 tags:

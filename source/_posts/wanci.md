@@ -3,6 +3,8 @@ title: 万磁搜索 - 免费下载永久使用
 date: 2026-04-30
 cover: /imgs/search.webp
 top_img: /imgs/search.webp
+description: 万磁搜索是一款专业的磁力资源搜索工具，内置多条稳定的磁力源，能够快速便捷地搜索各类资源。
+keywords: 万磁搜索
 categories:
   - 软件
 tags:

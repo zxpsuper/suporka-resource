@@ -3,6 +3,8 @@ title: 装系统神器：微PE工具箱
 date: 2026-04-14
 cover: /imgs/window-pe-6.webp
 top_img: /imgs/window-pe-6.webp
+description: 微PE工具箱是一款非常实用的PE系统，可以帮助我们快速重装系统、维护电脑。
+keywords: 微PE工具箱,PE系统,重装系统,维护电脑
 categories:
   - 软件
 tags:

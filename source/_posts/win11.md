@@ -3,6 +3,10 @@ title: 2026 新版 Win11 系统纯净版下载
 date: 2026-04-30
 cover: /imgs/win11.webp
 top_img: /imgs/win11.webp
+description: Win11专业版系统下载
+keywords: Win11
+categories:
+  - 软件
 tags:
   - Windows
 ---

@@ -3,6 +3,8 @@ title: Dev-sidecar 开发者便车
 date: 2026-04-17
 cover: /imgs/car.webp
 top_img: /imgs/car.webp
+description: 开发者边车，通过本地代理的方式将 https 请求代理到一些国内的加速通道上。
+keywords: 开发者边车，Dev-sidecar，梯子
 categories:
   - 软件
 tags:

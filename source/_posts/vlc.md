@@ -3,6 +3,8 @@ title: VLC视频播放器
 date: 2026-04-17
 cover: /imgs/vlc.jpg
 top_img: /imgs/vlc.jpg
+description: VLC 是一款由 VideoLAN 项目开发的免费开源跨平台多媒体播放器，绝对是播放器界的「瑞士军刀」。
+keywords: [VLC, 播放器, 格式转换]
 categories:
   - 软件
 tags:

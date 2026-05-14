@@ -3,6 +3,8 @@ title: Acrobat PDF 转化神器
 date: 2026-04-30
 cover: /imgs/pdf.webp
 top_img: /imgs/pdf.webp
+description: Acrobat Pro DC 2025 是一款非常强大的 PDF 处理工具，作为 PDF 格式的官方开发者，它绝对是 PDF 处理工具中的最强王者。
+keywords: Acrobat,PDF,转换,编辑,合并,拆分,格式转换
 categories:
   - 软件
 tags:

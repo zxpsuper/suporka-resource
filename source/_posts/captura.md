@@ -3,6 +3,8 @@ title: Captura 录屏工具
 date: 2026-04-17
 cover: /imgs/capture.png
 top_img: /imgs/capture.png
+description: 开源、小巧、免费、无广告的录屏神器
+keywords: 录屏工具
 categories:
   - 软件
 tags:

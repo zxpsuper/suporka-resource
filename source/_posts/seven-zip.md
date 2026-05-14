@@ -3,6 +3,8 @@ title: 7-zip 压缩工具
 date: 2026-04-17
 cover: /imgs/7zip.webp
 top_img: /imgs/7zip.webp
+description: 7-zip是一款免费开源的压缩软件，具有LZMA和LZMA2压缩的7z格式的高压缩比，而其安装包只有1.5MB!
+keywords: 7-zip,压缩,解压
 categories:
   - 软件
 tags:

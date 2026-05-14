@@ -3,6 +3,8 @@ title: Bandizip 解压软件
 date: 2026-04-30
 cover: /imgs/bandizip.png
 top_img: /imgs/bandizip.png
+description: Bandizip 是一款专业级的文件压缩与解压工具，不仅拥有极快的解压缩速度，还支持多种主流压缩格式（ZIP、RAR、7Z、ISO 等），是装机必备的实用工具。
+keywords: Bandizip, 压缩软件, 解压软件
 categories:
   - 软件
 tags:

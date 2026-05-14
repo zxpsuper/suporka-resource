@@ -3,6 +3,8 @@ title: 图吧工具箱
 date: 2026-05-05
 cover: /imgs/system-box.webp
 top_img: /imgs/system-box.webp
+description: 图吧工具箱，电脑硬件检测工具箱。
+keywords: 图吧工具箱,电脑硬件检测工具箱,系统工具
 categories:
   - 软件
 tags:

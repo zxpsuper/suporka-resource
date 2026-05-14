@@ -3,6 +3,8 @@ title: Readest 开源阅读软件
 date: 2026-04-17
 cover: /imgs/reading.webp
 top_img: /imgs/reading.webp
+description: 还在为电子书阅读的各种烦恼而困扰吗？Readest 0.10.6 开源阅读软件，正是为你量身打造的终极解决方案！
+keywords: Readest,开源阅读软件,电子书阅读器
 categories:
   - 软件
 tags:

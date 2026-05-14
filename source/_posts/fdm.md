@@ -3,6 +3,8 @@ title: FDM下载器
 date: 2026-04-10
 cover: /imgs/FDM.png
 top_img: /imgs/FDM.png
+description: FDM下载器，全协议支持，开源免费，下载速度快到飞起！
+keywords: 下载器,fdm,下载,软件
 categories:
   - 软件
 tags:

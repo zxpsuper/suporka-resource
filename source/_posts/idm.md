@@ -3,6 +3,8 @@ title: IDM直装版 - 下载加速器
 date: 2026-04-30
 cover: /imgs/idm.webp
 top_img: /imgs/idm.webp
+description: IDM是一款非常强大的下载工具，支持多线程下载，下载速度非常快，支持断点续传，支持下载网页中的视频和音频文件。
+keywords: IDM,下载,破解
 categories:
   - 软件
 tags:

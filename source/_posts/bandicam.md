@@ -3,6 +3,8 @@ title: 录屏神器 Bandicam
 date: 2026-04-30
 cover: /imgs/bandicam.jpg
 top_img: /imgs/bandicam.jpg
+description: Bandicam 是一款来自韩国的专业级录屏工具，以其高性能和易用性著称。
+keywords: Bandicam, 录屏, 破解
 categories:
   - 软件
 tags:

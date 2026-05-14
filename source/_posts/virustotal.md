@@ -3,6 +3,8 @@ title: VirusTotal - 安全从业者必备的在线病毒检测平台
 date: 2026-05-01
 cover: /imgs/virustotal.png
 top_img: /imgs/virustotal.png
+description: VirusTotal 是目前全球最权威、最受欢迎的在线恶意软件检测平台，整合了全球数十家主流杀毒引擎，让你只需要上传一次文件，就能同时得到多个杀毒软件的检测结果。
+keywords: VirusTotal, 病毒检测, 在线工具
 categories:
   - 在线工具
 tags:

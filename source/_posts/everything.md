@@ -3,6 +3,8 @@ title: 文件搜索神器 Everything
 date: 2026-04-30
 cover: /imgs/everything.png
 top_img: /imgs/everything.png
+description: Everything 是 Windows 平台上公认最快的文件搜索工具，其搜索速度比系统自带搜索快百倍，易用性也远超原生搜索功能。
+keywords: Everything,文件搜索,搜索工具
 categories:
   - 软件
 tags:

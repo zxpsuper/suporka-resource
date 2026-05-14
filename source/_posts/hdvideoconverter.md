@@ -3,6 +3,8 @@ title: HD Video Converter Pro 视频转换工具
 date: 2026-05-05
 cover: /imgs/hdv.webp
 top_img: /imgs/hdv.webp
+description: HD Video Converter Pro 是一款专业的视频转换工具，支持视频、音频、4K UHD 等格式的转换，软件绿色无广告，完全免费，绝对是装机必备神器。
+keywords: HD Video Converter Pro 视频转换工具
 categories:
   - 软件
 tags:

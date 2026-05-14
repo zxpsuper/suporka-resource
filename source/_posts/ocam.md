@@ -3,6 +3,8 @@ title: oCam 录屏神器
 date: 2026-05-05
 cover: /imgs/ocam.webp
 top_img: /imgs/ocam.webp
+description: oCam 录屏神器
+keywords: oCam 录屏神器
 categories:
   - 软件
 tags:
