@@ -10,7 +10,20 @@
       "Bash(py --version)",
       "Bash(/c/Users/suporka/AppData/Local/Microsoft/WindowsApps/python *)",
       "Bash(npm install *)",
-      "Bash(node *)"
+      "Bash(node *)",
+      "Bash(git *)",
+      "WebFetch(domain:typora.io)",
+      "WebFetch(domain:typoraio.github.io)",
+      "Bash(curl -sL -o /dev/null -w \"%{http_code}\" \"https://typora.io/img/posts/tweet/Screenshot_Linux.png\")",
+      "Bash(curl -sL -o /dev/null -w \"%{http_code}\" \"https://cdn.jsdelivr.net/gh/typora/typora-issues/screenshots/screenshot.png\")",
+      "Bash(curl -sL -o \"E:/github/suporka-resource/source/imgs/typora_cover.webp\" \"https://www.bing.com/images/search?q=typora+editor&form=HDRSC3&first=1\")",
+      "Bash(curl -sL -o \"E:/github/suporka-resource/source/imgs/typora_cover.webp\" \"https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_1000,h_562/https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1d3f1103d0f7f9c2f4e5e9a3f9c7b1e2f3a4b5c6.png\")",
+      "Bash(curl *)",
+      "Bash(npx -y @modelcontextprotocol/server-fetch)",
+      "Bash(npm search *)",
+      "Bash(npm view *)",
+      "WebFetch(domain:ccswitch.io)",
+      "Bash(python3 -c \"import sys,json,base64; d=json.load\\(sys.stdin\\); print\\(base64.b64decode\\(d['content']\\).decode\\('utf-8'\\)\\)\")"
     ]
   }
 }
