@@ -1,0 +1,12 @@
+- class_name: 友情链接
+  class_desc: 这些是小皮咖的相关站点
+  flink_style: anzhiyu
+  link_list:
+    - name: Suporka
+      link: https://suporka.site/
+      avatar: https://suporka.site/favicon.ico
+      descr: 小皮咖主站
+    - name: 广州百晓生
+      link: https://guangzhou.suporka.site/
+      avatar: https://guangzhou.suporka.site/favicon.ico
+      descr: 一个懂广州、懂吃喝玩乐、懂年轻人的本地生活号

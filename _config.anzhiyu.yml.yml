@@ -15,10 +15,13 @@ menu:
   #   相册集: /album/ || anzhiyu-icon-images
   #   小空调: /air-conditioner/ || anzhiyu-icon-fan
 
-  # 关于:
-  #   关于本人: /about/ || anzhiyu-icon-paper-plane
-  #   闲言碎语: /essay/ || anzhiyu-icon-lightbulb
-  #   随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
+  关于:
+    友链: /link/ || anzhiyu-icon-link
+    免责声明: /disclaimer/ || anzhiyu-icon-copyright-line
+    隐私政策: /privacy/ || anzhiyu-icon-shield
+  # 关于本人: /about/ || anzhiyu-icon-paper-plane
+  # 闲言碎语: /essay/ || anzhiyu-icon-lightbulb
+    随便逛逛: javascript:toRandomPost() || anzhiyu-icon-shoe-prints1
 
 # nav相关配置
 nav:
@@ -309,7 +312,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Valine/Waline/Twikoo/Artalk
-  use: giscus # Twikoo/Waline
+  use: Twikoo # Twikoo/Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -355,7 +358,7 @@ waline:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https://twikoo-netlify-suporka.netlify.app/.netlify/functions/twikoo
   region:
   visitor: false
   option:
@@ -481,9 +484,15 @@ footer:
       #   link: /copyright
       #   icon: anzhiyu-icon-copyright-line
   list:
-    enable: false
+    enable: true
     randomFriends: 3
     project:
+      - title: 网站说明
+        links:
+          - title: 免责声明
+            link: /disclaimer/
+          - title: 隐私政策
+            link: /privacy/
       # - title: 服务
       #   links:
       #     - title: 51la统计
