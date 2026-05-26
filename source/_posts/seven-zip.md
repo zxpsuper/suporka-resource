@@ -55,5 +55,3 @@ tags:
 ## 下载地址
 
 [7-z下载地址](https://pan.quark.cn/s/8a5cec2febf9)
-
-迅雷网盘 https://pan.xunlei.com/s/VOrTzpWEB2z1N86LrsCXGZ5FA1#

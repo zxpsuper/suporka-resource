@@ -56,7 +56,6 @@ Everything 是 Windows 平台上公认最快的文件搜索工具，其搜索速
 ## 下载地址
 
 - 夸克网盘 https://pan.quark.cn/s/789f5dcc5a34
-- 迅雷网盘 https://pan.xunlei.com/s/VOrTwSHX7ZnL-8bYAAOdrHF0A1#
 
 <div class="download-tips">
   <span class="link-text">

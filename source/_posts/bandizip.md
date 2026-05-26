@@ -54,7 +54,6 @@ Bandizip 支持众多压缩格式，完全满足日常办公和个人使用需�
 ## 下载地址
 
 - 夸克网盘 https://pan.quark.cn/s/fd5f4ac9e006?pwd=tjqg
-- 迅雷网盘 https://pan.xunlei.com/s/VOrS8BzDsFYjpT9rz0bSEWHeA1?pwd=253t#        
 
 <div class="download-tips">
   <span class="link-text">

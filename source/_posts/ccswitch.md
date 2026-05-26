@@ -141,4 +141,4 @@ brew install --cask cc-switch
 **官网：** [ccswitch.io](https://ccswitch.io)
 **GitHub：** [github.com/farion1231/cc-switch](https://github.com/farion1231/cc-switch)
 
-**备份下载地址：** [CC Switch](https://pan.xunlei.com/s/VOsog6Al-J4o7WBCu_D8B_vTA1?pwd=6p2y#)
+**备份下载地址：** [CC Switch](https://pan.quark.cn/s/3b706c3b28a0)

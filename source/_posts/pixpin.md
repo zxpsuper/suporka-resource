@@ -66,7 +66,6 @@ tags:
 
 ## 下载地址
 - 夸克网盘 https://pan.quark.cn/s/0f4f00ba3a8b
-- 迅雷网盘 https://pan.xunlei.com/s/VOrqLdT726CtwZVm9NLEl3_dA1#
 
 <div class="download-tips">
   <span class="link-text">

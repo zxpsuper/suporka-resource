@@ -79,8 +79,6 @@ Captura 提供两种录制模式：
 
 **夸克网盘下载：** [Captura](https://pan.quark.cn/s/ca45a18f7585)
 
-**迅雷网盘下载：**  [Captura](https://pan.xunlei.com/s/VOrSCDvmqOsC21kle5S1biz2A1?pwd=9b9v#)
-
 <div class="download-tips">
   <span class="link-text">
     觉得有用？分享给身边的朋友吧~

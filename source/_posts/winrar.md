@@ -39,7 +39,6 @@ WinRAR 支持的压缩格式非常丰富，几乎涵盖了日常工作中遇到�
 ## 下载地址
 
 - 夸克网盘 https://pan.quark.cn/s/a5139270b457
-- 迅雷网盘 https://pan.xunlei.com/s/VOrq4Xc6VbJEbtHDmWtXMJcQA1#
 
 
 <div class="download-tips">

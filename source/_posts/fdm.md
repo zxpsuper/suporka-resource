@@ -74,8 +74,6 @@ tags:
 
 [点击这里下载软件](https://pan.quark.cn/s/a4ca604f4cdb)
 
-[迅雷网盘下载](https://pan.xunlei.com/s/VOrVzh37F25q0GOeQT167i_3A1#)
-
 <div class="download-tips">
   <span class="link-text">
     觉得有用？分享给身边的朋友吧~

@@ -46,7 +46,6 @@ Dev-sidecar 中文名“开发者边车”，通过本地代理的方式将 http
 ## 下载地址
 
 - [夸克网盘快速下载](https://pan.quark.cn/s/27643476c99c)
-- [迅雷网盘快速下载](https://pan.xunlei.com/s/VOrVyk-PnP4k3NfkQMDhXKQdA1#)
 
 <div class="download-tips">
   <span class="link-text">

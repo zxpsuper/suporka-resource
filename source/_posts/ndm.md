@@ -64,4 +64,3 @@ NDM 最大支持 32 线程下载，配合浏览器插件使用，功能非常强
 ## 下载地址
 
 - 夸克网盘 https://pan.quark.cn/s/6e46aae7c392
-- 迅雷网盘 https://pan.xunlei.com/s/VOrTvwFvtexjzUczCY3eTx5XA1#

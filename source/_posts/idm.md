@@ -61,7 +61,6 @@ IDM 不仅下载速度快，还配备强大的浏览器插件，可以直接下�
 ## 下载地址
 
 - 夸克网盘 https://pan.quark.cn/s/a6cf50e72e2a
-- 迅雷网盘 https://pan.xunlei.com/s/VOralwanq6uCJTSjLEMu6MuZA1#
 
 <div class="download-tips">
   <span class="link-text">

@@ -45,7 +45,6 @@ oCam 支持 AVI、MP4、FLV、MOV、TS、VOB 等多种视频格式录制，以�
 
 ## 下载地址
 - 夸克网盘 https://pan.quark.cn/s/4860d5c824e1
-- 迅雷网盘 https://pan.xunlei.com/s/VOrqBO2wqOsC21kle5SE4QTzA1#
 
 
 <div class="download-tips">
