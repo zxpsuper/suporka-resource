@@ -157,14 +157,6 @@ var defaultPlayMusicList = [];
 var themeColorMeta, pageHeaderEl, navMusicEl, consoleEl;
 
 
-(function () {
-  var s = document.createElement('script');
-  s.src = '//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js';
-  s.defer = true;
-  document.head.appendChild(s);
-  console.log(9999)
-})();
-
 document.addEventListener("DOMContentLoaded", function () {
   let headerContentWidth, $nav, $rightMenu;
   let mobileSidebarOpen = false;
