@@ -54,6 +54,25 @@ script.
       item.parentNode.replaceChild(newScript, item)
     })
 
+    // 等待卜蒜子DOM元素就绪后重新注入脚本
+    function reinitBusuanzi(attempts) {
+      attempts = attempts || 0
+      window.busuanziRequestSent = false
+      console.log('尝试重新初始化卜蒜子，尝试次数：' + attempts)
+      var el = document.getElementById('busuanzi_site_uv') || document.getElementById('busuanzi_site_pv')
+      if (el || attempts > 20) {
+        var oldBsz = document.querySelector('script[src*="busuanzi"]')
+        if (oldBsz) oldBsz.remove()
+        var bsz = document.createElement('script')
+        bsz.src = '//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js'
+        bsz.defer = true
+        document.head.appendChild(bsz)
+      } else {
+        requestAnimationFrame(function() { reinitBusuanzi(attempts + 1) })
+      }
+    }
+    reinitBusuanzi()
+
     GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
 
     typeof panguInit === 'function' && panguInit()

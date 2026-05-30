@@ -168,9 +168,9 @@ var peopleConfig = {
   })(),
   img = document.createElement("img");
 (img.onload = init), (img.src = peopleConfig.src);
-let peoplecanvasEl = document.getElementById("peoplecanvas");
+var peoplecanvasEl = document.getElementById("peoplecanvas");
 
-let ctx = peoplecanvasEl ? peoplecanvasEl.getContext("2d") : undefined,
+var ctx = peoplecanvasEl ? peoplecanvasEl.getContext("2d") : undefined,
   stage = {
     width: 0,
     height: 0,
